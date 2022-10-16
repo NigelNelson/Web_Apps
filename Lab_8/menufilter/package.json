@@ -1,0 +1,17 @@
+{
+  "name": "menufilter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx babel -o public\\index.js src",
+    "start": "npx babel --watch -o public\\index.js src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-react": "^7.16.7"
+  }
+}

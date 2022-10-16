@@ -1,0 +1,17 @@
+Lab 1 - Web Page - HTML and CSS
+Author: Nigel Nelson
+Course: SE2840/021
+
+1. Introduction:
+* This lab acted as an exercise for students to take what they have learned about HTML and CSS thus far  and apply it in order to create a simple webpage. This webpage challenges students to create and stylize images, headers, links, and tables. In addition, this lab requires that students to use CSS to change the style of their webpage depending on whether it is being viewed in a browser window, or if it is being printed.
+2. Summary:
+* This lab helped me remember many things that I had learned in a previous Web Development course that I took online. I learned how to properly form HTML tables and use the rowspan attribute to change the number of rows that a given cell spanned. In addition, I recalled how to properly use selection in CSS so that HTML elements could be stylized, as well as how to define classes that are used across multiple elements. I also learned how to use CSS in order to define the style of HTML files depending on what media was being used to view them. Lastly, I learned that not all fonts are available across browsers, and that when choosing fonts, it is important to check a number of browsers to ensure your font is rendered as intended.
+3. Suggestions:
+* I believe it could be helpful to mention that the rowspan attribute can be used in the html document.
+* It could be helpful to include the lab requirements as a PDF, as I enjoy crossing off requirements as I work through the lab.
+4. What I enjoyed:
+* I appreciated the thorough detail in the lab requirements, not having much gray area allowed me to work very efficiently.
+* I appreciated the included rubric, it helped me understand what the crucial points of the deliverables were.
+* I enjoyed the fact that we are tasked with creating a webpage with our schedule, this is genuinely useful and fun to show friends.
+
+

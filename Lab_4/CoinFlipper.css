@@ -1,0 +1,33 @@
+/*
+Class: SE2840 - JavaScript Coin Flipper DOM
+Name: Nigel Nelson
+Class Section: 021
+*/
+
+body{
+    background-color: darkgrey;
+}
+
+#chart_div{
+    padding: 30px;
+}
+
+#filterDiv{
+    padding: 30px;
+}
+
+#filter{
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#tableData{
+    width: 95%;
+    margin: auto;
+}
+
+#filterLabel{
+    font-weight: bold;
+    padding-top: 20px;
+}

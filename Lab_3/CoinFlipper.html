@@ -1,0 +1,90 @@
+<!--
+Class: SE2840 - JavaScript Coin Flipper DOM
+Name: Nigel Nelson
+Class Section: 021
+!-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" href="CoinFlipper.css" />
+	<script src="CoinFlipper.js"></script>
+	<title>Nigel Nelson's Coin Flipper</title>
+</head>
+<body>
+	<h1>Nigel Nelson's Coin Flipper</h1>
+	<form class="inputTable">
+		<label class="inputLabel" for="numCoins">Number of Coins to Flip:</label>
+		<input class="inputCells" id="numCoins" type="text">
+		<label class="errorInput" id="numCoinsError"></label>
+		<br>
+		<label class="inputLabel" for="numFlips">Number of Flips:</label>
+		<input class="inputCells" id="numFlips" type="text">
+		<label class="errorInput" id="numFlipsError"></label>
+	</form>
+	<br>
+	<input type="submit" value="Go" id="submitButton">
+	<br>
+	<table class="histogramTable">
+		<tr>
+			<td class="tableCell">0</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">1</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">2</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">3</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">4</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">5</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">6</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">7</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">8</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">9</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+		<tr>
+			<td class="tableCell">10</td>
+			<td class="tableCell count"></td>
+			<td><progress class="histogram" max="100"></progress></td>
+		</tr>
+	</table>
+	<label id="executionTime"></label>
+	<br>
+	<br>
+</body>
+</html>

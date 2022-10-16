@@ -1,0 +1,28 @@
+/**
+Class: SE2840 - Bus Speed Checker
+Name: Nigel Nelson
+Section: 021
+ */
+
+#map {
+    height: 500px;
+    width: 1000px;
+}
+
+body {
+    width: 1000px;
+}
+
+#tableDiv{
+    height: 300px;
+    overflow-y: auto;
+}
+
+#infoAlert{
+    color: white;
+    text-align: center;
+}
+
+#errorAlert{
+    text-align: center;
+}

@@ -1,0 +1,74 @@
+/*
+Class: SE2840 - JavaScript Coin Flipper DOM
+Name: Nigel Nelson
+Class Section: 021
+*/
+
+body{
+    font-family: "Times New Roman";
+    background-color: lightgoldenrodyellow;
+}
+
+.inputTable{
+    width: 100%;
+}
+
+.inputLabel{
+    border: solid 2px black;
+    border-radius: 5px;
+    background-color: darkgrey;
+    padding: 5px;
+    margin: 7px;
+    display: inline-block;
+    width: 25%;
+    text-align: right;
+}
+
+.inputCells{
+    border: solid 2px black;
+    margin: 7px;
+    width: 20%;
+}
+
+.errorInput{
+    color: black;
+    background-color: red;
+    border: solid black;
+    border-radius: 7px;
+    padding: 5px;
+    display: inline-block;
+    width: auto;
+}
+
+.tableCell{
+    background-color: white;
+    border: solid black;
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px;
+    width: 5%;
+}
+
+.histogramTable{
+    width: 100%;
+}
+
+.histogram{
+    width: 100%;
+}
+
+#submitButton{
+    width: 51%;
+    padding: 7px;
+    border-radius: 7px;
+    margin: 10px;
+}
+
+#executionTime{
+    font-weight: bold;
+    background-color: lawngreen;
+    border: dashed green;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+}

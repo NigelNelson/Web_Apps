@@ -1,0 +1,75 @@
+/*
+Assignment: Lab 1 - Web Page - HTML and CSS
+Author: Nigel Nelson
+Course: SE2840/021
+ */
+
+
+img {
+    height: auto;
+    width: 200px;
+    filter: grayscale(100%);
+}
+
+body{
+    background-color: white;
+    text-align: center;
+    font-family: "Lucida Sans Typewriter";
+    color: black;
+}
+
+table{
+    margin: auto;
+    font-family: "Lucida Sans Typewriter";
+    border: solid black;
+    width: 85%;
+}
+
+th {
+    border: 3px solid black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+td {
+    border: 2px solid black;
+}
+
+.firstColumn{
+    width: 10%;
+}
+
+.middleColumn{
+    width: 18%;
+}
+
+.ma3320{
+    background-color: grey;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.se2840{
+    background-color: lightgrey;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.cs3300{
+    background-color: dimgrey;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.cs3840{
+    background-color: grey;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.freeHour{
+    background-color: darkgrey;
+    width: 18%;
+    border-radius: 7px;
+    border: dashed;
+}

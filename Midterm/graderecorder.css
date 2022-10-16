@@ -1,0 +1,23 @@
+/*
+    Class: SE2840 - Midterm Part 2
+    Name: Nigel Nelson
+    Class Section: 021
+*/
+
+body {
+    background-color: lightgray;
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+}
+
+#errormessage {
+    color: red;
+}
+
+.lastcol {
+    width:0.1%;
+    white-space: nowrap;
+}

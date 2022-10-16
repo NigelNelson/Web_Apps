@@ -1,0 +1,16 @@
+{
+  "name": "lab_7",
+  "version": "1.0.0",
+  "main": "mongoBusDataCollector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0",
+    "node-fetch": "^2.6.7"
+  },
+  "description": ""
+}

@@ -1,0 +1,85 @@
+/*
+Assignment: Lab 1 - Web Page - HTML and CSS
+Author: Nigel Nelson
+Course: SE2840/021
+ */
+
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+body{
+    background-color: indianred;
+    text-align: center;
+    font-family: "Bahnschrift";
+    color: darkblue;
+}
+
+table{
+    margin: auto;
+    font-family: "Bahnschrift";
+    border: 5px solid dimgrey;
+    width: 85%;
+}
+
+th {
+    border: 3px solid darkslategrey;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+td {
+    border: 2px solid black;
+}
+
+.firstColumn{
+    width: 10%;
+}
+
+.middleColumn{
+    width: 18%;
+}
+
+.defaultCell{
+    background-color: lightgrey;
+}
+
+.ma3320{
+    background-color: darkorange;
+    color: indigo;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.se2840{
+    background-color: lawngreen;
+    color: navy;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.cs3300{
+    background-color: mediumaquamarine;
+    color: maroon;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.cs3840{
+    background-color: yellow;
+    color: darkslategray;
+    width: 18%;
+    border-radius: 7px;
+}
+
+.freeHour{
+    background-color: midnightblue;
+    color: coral;
+    width: 18%;
+    border-radius: 7px;
+    border: dashed;
+}
